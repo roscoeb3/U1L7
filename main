@@ -1,0 +1,21 @@
+# pin = input("Please enter pin: ")
+# pin = int(pin)
+# correctpin = (pin == 3563)
+# if correctpin:
+#   print("Correct pin!")
+# print("Thank you!")
+
+pin = input("Please enter pin: ")
+pin = int(pin)
+if pin==3653:
+   print("Correct pin!")
+print("Thank you!")
+
+
+
+
+
+
+
+
+
